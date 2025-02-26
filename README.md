@@ -59,10 +59,5 @@ Example Output
 Contributions are welcome! Feel free to:
 Open an issue for feature requests or bug reports.
 Fork the repo and submit a pull request.
-📜 License
-This project is licensed under the MIT License.
-📞 Contact
-For any queries or suggestions, reach out to:
-📧 Email: security@cert.gov.lk
-🌍 Website: cert.gov.lk
-This Security Header Check tool is an official initiative by Sri Lanka CERT to promote better security hygiene in web applications. 🚀
+
+
