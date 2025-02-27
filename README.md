@@ -43,7 +43,7 @@ python3 --version
 If not installed, download it from python.org.
 
 2️⃣ Clone the Repository
-git clone https://github.com/YOUR_GITHUB_USERNAME/security-header-check.git
+git clone https://github.com/Avishkqwerty/securityheaders
 'cd security-header-check'
 
 3️⃣ Install Dependencies
