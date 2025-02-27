@@ -48,7 +48,7 @@ git clone https://github.com/Avishkqwerty/securityheaders
 
 3️⃣ Install Dependencies
 Run the following command to install required libraries:
-'pip install requests termcolor'
+'pip3 install requests termcolor'
 
 How It Works
 1️⃣ Enter a domain (e.g., example.com) when prompted.
